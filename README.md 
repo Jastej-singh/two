@@ -1,0 +1,36 @@
+# 🚀 miles72 WebView Demo App
+
+A **Flutter-based Android app** built by **Jastej** for **miles72** to demonstrate seamless WebView integration and hybrid experience.
+
+---
+
+## 🏠 Home Screen Features
+
+The home screen has **two buttons**:
+
+- 🔗 **Open Google** – Opens [Google.com](https://google.com) in a WebView
+- ⚛️ **Open React App** – Opens your local React app (e.g. `http://localhost:3000`) in a WebView
+
+---
+
+## 💻 How to Run
+
+```bash
+flutter pub get
+flutter run
+
+✅ Make sure your React app is running locally before using the second button.
+
+📱 Built With
+
+Flutter (Dart)
+webview_flutter
+
+✨ Why This Matters
+
+This demo shows how easily a native mobile experience can blend with web technologies, making it ideal for hybrid product development or MVPs.
+
+👨‍💻 Author
+
+Jastej
+Flutter Developer @ miles72
