@@ -30,6 +30,12 @@ webview_flutter
 
 This demo shows how easily a native mobile experience can blend with web technologies, making it ideal for hybrid product development or MVPs.
 
+## 📸 App Screenshot
+
+Here’s how the app looks when it runs on the device:
+
+![App Home Screen](screenshot.png)
+
 👨‍💻 Author
 Jastej
 Flutter Developer @ miles72
